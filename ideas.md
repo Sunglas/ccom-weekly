@@ -1,0 +1,2 @@
+- [Additive primes](https://rosettacode.org/wiki/Additive_primes)
+- [Emojify](https://code.golf/emojify)
